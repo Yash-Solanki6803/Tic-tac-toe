@@ -1,5 +1,6 @@
 body{
 	box-sizing: border-box;
+	background-color: aquamarine;
 }
 
 .cell {
@@ -14,7 +15,7 @@ body{
 }
 
 .container{
-	background-color: aquamarine;
+	
 	box-sizing: border-box;
 	height: 100vh;
 	display: flex;
